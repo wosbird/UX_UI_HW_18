@@ -1,0 +1,84 @@
+/** ==========  PINK BOX =========== **/
+.pink-box { 
+    border: 3px solid #F2C4C8;
+    background-color: rgba(242, 196,200, 0.4);
+    font-family: 'Mulish', sans-serif;
+    margin: 30px;
+    padding: 30px;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+
+.pink-box p{
+    text-align: center;
+    font-weight: 1000;
+
+}
+
+.pink-box-title {
+    font-weight: 600;
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+.pink-box img {
+    height: 30px;
+    float: left;
+}
+
+
+
+/** ==========  CUSTOM CSS =========== **/
+.tile.is-parent {
+    padding: 0px;
+}
+
+.box {
+    box-shadow: none;
+    background-color: #ffffff00;
+}
+
+/** ==========  NAVIGATION BAR =========== **/
+#navbar{ 
+    height: 120px;
+    border: solid 3px lightPink;
+    margin-bottom: 50px;
+    background-color: #ffd8e4;
+
+}
+
+.navbar-left-items {
+    float: left;
+    display: block;
+    position: relative; 
+}
+
+.navbar-right-items {
+    float: right;
+    display: block;
+}
+
+.nav-logo{
+    height: 100px;
+}
+
+.nav-ham{ 
+    height: 50px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+footer{ 
+    text-align: center;
+    margin: 30px;
+
+}
+body {
+    background-image: url("../background_crane.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+}
+
