@@ -10,34 +10,30 @@
 }
 
 
-.pink-box p{
+p{
     text-align: center;
     font-weight: 1000;
 
 }
 
-.pink-box-title {
+h2 {
     font-weight: 600;
     font-size: 30px;
     padding-left: 30px;
 }
 
-.pink-box img {
+.pink-box .image {
     height: 30px;
     float: left;
 }
 
 
+h1{
+    font-weight: 800px;
+    font-size: 60px;
 
-/** ==========  CUSTOM CSS =========== **/
-.tile.is-parent {
-    padding: 0px;
 }
 
-.box {
-    box-shadow: none;
-    background-color: #ffffff00;
-}
 
 /** ==========  NAVIGATION BAR =========== **/
 #navbar{ 
